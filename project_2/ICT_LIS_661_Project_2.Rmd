@@ -57,7 +57,7 @@ Before moving on, please make a copy of this file and rename it in a way that ma
 
 ## Project 2, Part 2: Summary Statistics [4 points]
 
-> In the code chunk below, write some code that provides a summary of your data. As you determine what code to write, consider the specific prompts below. As is typical for R, there are a number of ways to do this—*how* you do so is less important than *that* you do so. [1 point]
+> In the code chunk below, write some code that provides a summary of your data. (Please note that while this can include the calculation of summary statistics, you should also use a function that gives you a broader overview of the dataset). As you determine what code to write, consider the specific prompts below. As is typical for R, there are a number of ways to do this—*how* you do so is less important than *that* you do so. [1 point]
 
 ```{r}
 
